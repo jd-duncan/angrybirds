@@ -1,0 +1,6 @@
+james kroner angry birds work log 
+
+-modified scoring script from roller ball 
+-created gui.text objects to display score
+-integrated collision and scoring system (not functional yet)
+-created collision demo scene for class presentation 
