@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../Angry Birds Presentation Project/Assets/Scripts/Resetter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Resetter.cs">
     <Files>
-      <File FileName="../Angry Birds Presentation Project/Assets/Scripts/Resetter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Resetter.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
