@@ -19,7 +19,7 @@ public class Score : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other) {
 
-		if (other.gameObject.tag == "Pickup") {
+		if (other.gameObject.tag == "Damager") {
 			other.gameObject.SetActive (false);
 			count = count + 1;
 			SetCountText (); 
@@ -30,7 +30,7 @@ public class Score : MonoBehaviour {
 
 	void SetCountText () {
 		countText.text = "Count: " + count.ToString ();
-		if (count >= 12) {
+		if (count >= 6) {
 			winText.text = "YOU WIN!!!";
 		}
 	}
