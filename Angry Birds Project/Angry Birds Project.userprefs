@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Score.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Projectile_Dragging_Darius.cs">
     <Files>
-      <File FileName="Assets/Scripts/Score.cs" Line="17" Column="2" />
-      <File FileName="Assets/Scripts/Damage.cs" Line="21" Column="2" />
+      <File FileName="Assets/Scripts/Score.cs" Line="25" Column="4" />
+      <File FileName="Assets/Scripts/Projectile_Dragging_Darius.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
